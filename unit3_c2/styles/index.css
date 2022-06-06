@@ -1,0 +1,12 @@
+#navbar{
+   background-color: aquamarine;
+   display: flex;
+   justify-content: space-between;
+}
+#form_box{
+    padding:20px;
+    margin-top: 50px;
+    margin-left: 360px;
+    margin-right: 870px;
+    background-color: bisque;
+}
